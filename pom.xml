@@ -53,4 +53,22 @@
 	<packaging>pom</packaging>
 	<name>Multi</name>
 	<description>API for TechBlog</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.blog.tech</groupId>
+			<artifactId>TechBlog</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>guard.blog.tech</groupId>
+			<artifactId>techsecurity</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>jar.blog.tech</groupId>
+			<artifactId>entityjar</artifactId>
+			<version>0.0.1</version>
+		
+		</dependency>
+	</dependencies>
 </project>
