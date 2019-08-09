@@ -15,7 +15,38 @@
         <module>../TechBlog</module>
         <module>../TechBlogJar</module>
     </modules>
-
+	<repositories>
+		<repository>
+			<id>mvn-repo</id>
+			<url>https://github.com/aysonsteven/EntityJar.git</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>mvn-repo2</id>
+			<url>https://github.com/aysonsteven/SecurityServer.git</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+		<repository>
+			<id>mvn-repo2</id>
+			<url>https://github.com/aysonsteven/TechBlog.git</url>
+			<releases>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+			</snapshots>
+		</repository>
+	</repositories>
 	<groupId>com.multiple.module</groupId>
 	<artifactId>multimodule</artifactId>
 	<version>0.0.1</version>
