@@ -37,7 +37,7 @@
 			</snapshots>
 		</repository>
 		<repository>
-			<id>mvn-repo2</id>
+			<id>mvn-repo3</id>
 			<url>https://github.com/aysonsteven/TechBlog.git</url>
 			<releases>
 				<enabled>true</enabled>
