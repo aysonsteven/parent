@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 81254567
+Build-Jdk: 11.0.3
+Implementation-Title: Multi
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.multiple.module
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/multimodule
+Created-By: Maven Integration for Eclipse
+
